@@ -1,4 +1,4 @@
-#Visual Studio Code (VS Code)
+# Visual Studio Code (VS Code)
 
 ## Introduction
 Visual Studio Code (VS Code) is a free, lightweight, and powerful code editor developed by Microsoft. It supports multiple programming languages, has built-in Git integration, and offers a vast extension ecosystem to enhance functionality.
